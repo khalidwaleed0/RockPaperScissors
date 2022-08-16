@@ -17,6 +17,11 @@ li {
 	justify-content: center;
 	gap: 48px;
 }
+
+.choices img {
+	width: 100%;
+}
+
 ul {
 	padding: 0;
 	margin: 0;
